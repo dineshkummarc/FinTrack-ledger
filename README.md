@@ -65,8 +65,6 @@ Contributions are welcome! Please follow the standard pull request workflow:
 - Commit your changes
 - Open a pull request
 
-
-
 Included:
 - Added CI/CD pipeline. (Git Actions workflow)
 - Pint for php linting
